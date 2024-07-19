@@ -1,0 +1,231 @@
+[
+    {
+      "created_at": "2024-06-18 07:15:55",
+      "handle": "ipod-nani",
+      "id": 3,
+      "product_type": "Cult Products",
+      "status": "active",
+      "tags": "MP3",
+      "title": "IPod Nano - 8GB",
+      "updated_at": "2024-06-18 08:15:55",
+      "vendor": "Apple"
+    },
+    {
+      "created_at": "2024-06-18 07:15:55",
+      "handle": "macbook-pr",
+      "id": 4,
+      "product_type": "Laptop",
+      "status": "active",
+      "tags": "Laptop",
+      "title": "MacBook Pro 13-inch",
+      "updated_at": "2024-06-18 09:15:55",
+      "vendor": "Apple"
+    },
+    {
+      "created_at": "2024-06-18 07:15:55",
+      "handle": "ipad-pr",
+      "id": 5,
+      "product_type": "Ipad",
+      "status": "active",
+      "tags": "Tablet, Apple, MacBook, Pro",
+      "title": "Ipad Pro 14-inch",
+      "updated_at": "2024-06-18 08:15:55",
+      "vendor": "Apple"
+    },
+    {
+      "created_at": "2024-06-18 07:15:55",
+      "handle": "iphone-pro",
+      "id": 6,
+      "product_type": "Iphone",
+      "status": "active",
+      "tags": "Smartphone",
+      "title": "Iphone 15 Pro",
+      "updated_at": "2024-06-18 09:15:55",
+      "vendor": "Apple"
+    },
+    {
+      "created_at": "2024-06-18 07:15:55",
+      "handle": "victus-16",
+      "id": 7,
+      "product_type": "Laptops",
+      "status": "active",
+      "tags": "Laptop",
+      "title": "Victus 16-inch",
+      "updated_at": "2024-06-18 08:15:55",
+      "vendor": "HP"
+    },
+    {
+      "created_at": "2024-06-18 07:15:55",
+      "handle": "poco-x6",
+      "id": 8,
+      "product_type": "Smartphone",
+      "status": "active",
+      "tags": "Smartphone",
+      "title": "Pocophone X6",
+      "updated_at": "2024-06-18 09:15:55",
+      "vendor": "Poco"
+    },
+    {
+      "created_at": "2024-06-18 09:15:55",
+      "handle": "xiaomi-pad",
+      "id": 9,
+      "product_type": "Tablet",
+      "status": "active",
+      "tags": "Tablets",
+      "title": "Xiaomi Pro 13-inch",
+      "updated_at": "2024-06-18 09:15:55",
+      "vendor": "Xiaomi"
+    },
+    {
+      "created_at": "2024-06-18 07:15:55",
+      "handle": "samsung-23",
+      "id": 10,
+      "product_type": "Smartphone",
+      "status": "active",
+      "tags": "Smartphone",
+      "title": "Samsung 23",
+      "updated_at": "2024-06-18 08:15:55",
+      "vendor": "Samsung"
+    },
+    {
+      "created_at": "2024-06-18 08:15:55",
+      "handle": "samsung-24",
+      "id": 11,
+      "product_type": "Smartphone",
+      "status": "active",
+      "tags": "Smartphone",
+      "title": "Samsung 24",
+      "updated_at": "2024-06-18 09:15:55",
+      "vendor": "Samsung"
+    },
+    {
+      "created_at": "2024-06-18 07:15:55",
+      "handle": "poco-f6",
+      "id": 12,
+      "product_type": "Smartphone",
+      "status": "active",
+      "tags": "Smartphone",
+      "title": "Pocophone F6",
+      "updated_at": "2024-06-18 09:15:55",
+      "vendor": "Poco"
+    },
+    {
+      "created_at": "2024-06-18 07:15:55",
+      "handle": "samsung-A15",
+      "id": 13,
+      "product_type": "Smartphone",
+      "status": "active",
+      "tags": "Smartphone",
+      "title": "Samsung A15",
+      "updated_at": "2024-06-18 08:15:55",
+      "vendor": "Samsung"
+    },{
+      "created_at": "2024-06-18 07:15:55",
+      "handle": "samsung-A05",
+      "id": 14,
+      "product_type": "Smartphone",
+      "status": "active",
+      "tags": "Smartphone",
+      "title": "Samsung A05",
+      "updated_at": "2024-06-18 07:25:55",
+      "vendor": "Samsung"
+    },{
+      "created_at": "2024-06-18 07:35:55",
+      "handle": "samsung-A55",
+      "id": 15,
+      "product_type": "Smartphone",
+      "status": "active",
+      "tags": "Smartphone",
+      "title": "Samsung A55",
+      "updated_at": "2024-06-18 07:45:55",
+      "vendor": "Samsung"
+    },
+    {
+      "created_at": "2024-06-18 07:15:55",
+      "handle": "samsung-21",
+      "id": 16,
+      "product_type": "Smartphone",
+      "status": "active",
+      "tags": "Smartphone",
+      "title": "Samsung A55",
+      "updated_at": "2024-06-18 07:35:55",
+      "vendor": "Samsung"
+    },
+    {
+      "created_at": "2024-06-18 07:15:55",
+      "handle": "xiaomi-12",
+      "id": 17,
+      "product_type": "Smartphone",
+      "status": "active",
+      "tags": "Smartphone",
+      "title": "Xiaomi 12",
+      "updated_at": "2024-06-18 07:25:55",
+      "vendor": "Xiaomi"
+    },
+    {
+      "created_at": "2024-06-18 07:15:55",
+      "handle": "xiaomi-13",
+      "id": 18,
+      "product_type": "Smartphone",
+      "status": "active",
+      "tags": "Smartphone",
+      "title": "Xiaomi 13",
+      "updated_at": "2024-06-18 07:25:55",
+      "vendor": "Xiaomi"
+    },
+    {
+      "created_at": "2024-06-18 07:15:55",
+      "handle": "xiaomi-14",
+      "id": 19,
+      "product_type": "Smartphone",
+      "status": "active",
+      "tags": "Smartphone",
+      "title": "Xiaomi 14",
+      "updated_at": "2024-06-18 07:55:55",
+      "vendor": "Xiaomi"
+    },
+    {
+      "created_at": "2024-06-18 07:15:55",
+      "handle": "macbook-m4",
+      "id": 20,
+      "product_type": "Laptops",
+      "status": "active",
+      "tags": "Laptop",
+      "title": "MacBook M4 Pro 13-inch",
+      "updated_at": "2024-06-18 07:45:55",
+      "vendor": "Apple"
+    },
+    {
+      "created_at": "2024-06-18 07:15:55",
+      "handle": "macbook-m2",
+      "id": 21,
+      "product_type": "Laptops",
+      "status": "active",
+      "tags": "Laptop",
+      "title": "MacBook M1 Pro 13-inch",
+      "updated_at": "2024-06-18 07:35:55",
+      "vendor": "Apple"
+    },
+    {
+      "created_at": "2024-06-18 07:15:55",
+      "handle": "apple-watch",
+      "id": 22,
+      "product_type": "Smartwatch",
+      "status": "active",
+      "tags": "Smartwatch",
+      "title": "Apple Watch 4 Series",
+      "updated_at": "2024-06-18 07:25:55",
+      "vendor": "Apple"
+    },
+    {
+      "created_at": "2024-06-18 07:15:55",
+      "handle": "apple-pen",
+      "id": 23,
+      "product_type": "Accesories",
+      "status": "active",
+      "tags": "Accesories",
+      "title": "Apple Pen",
+      "updated_at": "2024-06-18 07:45:55",
+      "vendor": "Apple"
+    }
+  ]
