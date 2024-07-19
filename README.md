@@ -10,7 +10,7 @@ Muh Galuh Surya Putra Kusuma (A11.2021.13785/A11.4601)
 
 Clone repository
 
-    git clone https://github.com/setoaryotomo/backend-shopify-like-application.git
+    git clone https://github.com/muhgaluh/uas_shopify_a11-2021-13785
 
 Build dan run container
 
